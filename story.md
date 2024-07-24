@@ -13,3 +13,13 @@ At precisely 5:30 PM, Alex locked his computer and gathered his belongings. His 
 With the setting sun as his signal, Alex transformed. He slipped into the alley behind his apartment building, where the hum of the city's circuitry grew stronger, more insistent. The night air electrified his senses, and he welcomed the rush of power that surged through him.
 
 Word on the street had it that The Artisan was planning something big, a heist that would devastate the financial district if successful. Surge had to be ready. He couldn't let his inability to influence non-electronic devices hinder him tonight. He would have to outsmart The Artisan using his wits and whatever tools he had at hand.
+
+As he patrolled the city, Surge's fingertips traced the lines of power that snaked through walls and under streets. His connection with the city's grid was his map, his compass. It wasn't long before whispers of a disturbance led him to an old warehouse, the kind of place that throbbed with the heartbeat of illicit activity.
+
+He crouched on a rooftop opposite the building, watching through a pair of binoculars—a decidedly non-electronic choice for tonight's mission. Men with the bearing of soldiers but the attire of thieves milled about, their hands gripping the wooden shafts of crossbows.
+
+Surge had an idea. He slinked closer, moving with the shadows until he was just outside the warehouse. Taking a deep breath, he centered himself and reached out to the aging power lines overhead. With swift concentration, he manipulated the flow of electricity, diverting it from streetlights and signs to the area around the warehouse, bathing it in a harsh, sudden glow.
+
+Chaos erupted. The gang members were blinded, confused by the unexpected flood of light that rendered their dark-adapted eyes useless. It was the opening Surge needed. With swift, precise movements, he infiltrated the warehouse, dodging projectiles with gymnastic flair, his mind racing to stay one step ahead of his analog assailants.
+
+Amongst the pandemonium, he spotted The Artisan, his features stoic even as his plans crumbled. Locked in a battle of wits and reflexes, Surge wove through the skirmish, his limbs guided by instinct honed through countless battles, all while avoiding the touch of steel-tipped bolts.
