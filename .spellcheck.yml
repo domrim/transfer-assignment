@@ -1,6 +1,13 @@
 spellchecker: aspell
 matrix:
-- name: Text Files
-  sources:
-  - "**/*.txt"
-  - "**/*.md"
+  - name: Text Files
+    sources:
+      - "**/*.txt"
+      - "**/*.md"
+    aspell:
+      lang: en
+      d: en_US
+    dictionary:
+      wordlists:
+        - .words-custom.txt
+      output: build/dictionary/python.dic
